@@ -10,10 +10,9 @@ For meeting above acceptance criteria created 3 tests:
 3)	And third test validate that element with Name = "Gallery" has a Description that contains the text "2x larger image"
 
 To execute these test prerequisite:
-1) Download Rest-Assured Jars/Library
-   First download all the required Rest-Assured jar files. Here is the link to download the Jars: https://github.com/rest-assured/rest-  
-   assured/wiki/Downloads.
-   On this page you will find a section to download “Current direct downloads” . Move to that section and click on    the link to dist 
+1) Download Rest-Assured Jars/Library:- First download all the required Rest-Assured jar files. Here is the link to download the Jars: 
+   https://github.com/rest-assured/rest-assured/wiki/Downloads
+   On this page you will find a section to download “Current direct downloads” . Move to that section and click on the link to dist 
    package.
 2) Once click on the link, browser will download the rest-assured-3.0.3-dist.zip file on the system. For me the file gets downloaded to the 
    “downloads” folder. In your case, it might be a different location based on your browser’s default setting. Now, go to that folder where 
